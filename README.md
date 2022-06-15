@@ -8,4 +8,4 @@ Inspired by: [Slack](https://slack.com/), [benawad's repos](https://github.com/b
 
 Стек: JavaScript, Express.js, React, GraphQL, PostgreSQL.
 
-![preview](https://user-images.githubusercontent.com/14972023/173662618-162f0096-1168-4468-b006-12b08c6f3c45.png)
+![prewiew](https://user-images.githubusercontent.com/14972023/173740339-ad6a0868-9e53-43d7-bb1e-6a2c85ee9356.png)
